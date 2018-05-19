@@ -1,0 +1,26 @@
+new commit adn updated configeration for git!
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .bash_logout
+#	new file:   .bashrc
+#	new file:   .cache/motd.legal-displayed
+#	new file:   .gitconfig
+#	new file:   .profile
+#	new file:   dhbox-work-today.md
+#	new file:   first-repo
+#	new file:   pandoc-1.19.2.1-1-amd64.deb
+#	new file:   pandoc-1.19.2.1-1-amd64.deb.1
+#	new file:   readme.md
+#	new file:   todayscommands..html
+#	new file:   todayscommands.docx
+#	new file:   todayscommands.html
+#
+# Changes not staged for commit:
+#	modified:   first-repo (modified content)
+#
