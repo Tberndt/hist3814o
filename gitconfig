@@ -1,0 +1,3 @@
+[user]
+	email = toriberndt789@gmail.com\ngit config --global user.email toriberndt789@gmail.com
+	name = tori berndt
