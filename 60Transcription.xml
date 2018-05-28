@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="000style.xsl"?>
+<teiCorpus>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Digitised and Encoded copy of Negro Slavery by Zachary MacAulay</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Transcribed from digital copy available from Recovered Histories at
+                    http://www.recoveredhistories.org/pamphlet1.php?page=1&amp;orderby=MaxID&amp;catid=66</authority>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Negro Slavery; or, A View of Some of the More Prominent Features of
+                            that State of Society, as it Exists in the United States of America and
+                            in the Colonies of the West Indies, Especially in Jamaica</title>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Printed for Hatchard and Son, Piccadilly, and J. and A. Arch,
+                            Cornhill</publisher>
+                        <distributor>Sold Also by W. Graphel, Church street, and G. and J. Robison,
+                            Castle Street, Liverpool.</distributor>
+                        <date when="1823">1823</date>
+                        <pubPlace>
+                            <settlement>London</settlement>
+                        </pubPlace>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title/>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Transcribed by a student of Digital History at Sheffield Hallam
+                        University</authority>
+                </publicationStmt>
+                <sourceDesc>
+                    <bibl>
+                        <biblScope>60</biblScope>
+                    </bibl>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p> Strongest prejudice to any thing which is  in any way calculated to open the middle of their people.” “”Ignorance, gross ignorance,” is conceived to be “ the grand prop of the Negro slavery.” Nay, <persName key="Cooper, Emanuel" from="?" to="?" role="Coadjutor" ref="http://www.recoveredhistories.org/pamphlet1.php?catid=304l">he</persName> believes it to be the common option in <placeName key="?, Jamacia" ref="https://tools.wmflabs.org/geohack/geohack.php?params=NaN_NaN_NaN_S_NaN_NaN_NaN_W"> </placeName>,“ that the Negroes are an inferior species.”</p>
+<p> <interp key="gangs work befor a whip, drivers have whip in hand" n="only citation is here" cert="high" ref="http://www.recoveredhistories.org/pamphlet1.php?catid=304">The gangs always work before the whip, which is a very weighty and powerful instrument</interp>. The <persName key="driver,the" from="?" to="?" role="gangs" ref="http://www.recoveredhistories.org/pamphlet1.php?catid=304l">Driver</persName> has it always in <persName key="driver,the" from="?" to="?" role="gangs" ref="http://www.recoveredhistories.org/pamphlet1.php?catid=304l">his</persName> hand, and drives Negros,me and women, without distinction, as <persName key="driver,the" from="?" to="?" role="gangs" ref="http://www.recoveredhistories.org/pamphlet1.php?catid=304l">he</persName> would drive horses or cattle in a team. <persName key="Cooper, Emanuel" from="?" to="?" role="Coadjutor" ref="http://www.recoveredhistories.org/pamphlet1.php?catid=304l">Mr. Cooper</persName> does not say that<persName key="Cooper, Emanuel" from="?" to="?" role="Coadjutor" ref="http://www.recoveredhistories.org/pamphlet1.php?catid=304l">he</persName> <p> <interp key="Mr cooper has whip present ready to lash sholders" n="only citation is here" cert="high" ref="http://www.recoveredhistories.org/pamphlet1.php?catid=304">is present, and ready to be applied to the back or shoulders of any who flag at their work,  or lag behind in the line</interp>. * The <persName key="driver,the" from="?" to="?" role="gangs" ref="http://www.recoveredhistories.org/pamphlet1.php?catid=304l">driver</persName>, who is generally a black man, has the power not only of thus stimulating the slaves under <persName key="driver,the" from="?" to="?" role="gangs" ref="http://www.recoveredhistories.org/pamphlet1.php?catid=304l">him</persName> to exertion, by the application of the whip of their bodies, while they are proceeding with their work, but, when he considers any of them to have committed a fault deserving of a more serious, <persName key="driver,the" from="?" to="?" role="gangs" ref="http://www.recoveredhistories.org/pamphlet1.php?catid=304l">he</persName> has the power also of prostrating them (women as well as men) on the ground, causing them to be held firmly down, by other Negroes, who grasp the hands and legs of their prostrate companion, when <persName key="driver,the" from="?" to="?" role="gangs" ref="http://www.recoveredhistories.org/pamphlet1.php?catid=304l">he</persName> may inflict upon the bare posteriors such a number of lashes as <persName key="driver,the" from="?" to="?" role="gangs" ref="http://www.recoveredhistories.org/pamphlet1.php?catid=304l">he</persName> may deem the fault to have merited; the whole number which <persName key="driver,the" from="?" to="?" role="gangs" ref="http://www.recoveredhistories.org/pamphlet1.php?catid=304l">he</persName> may inflict at one time, without the presence of the overseer, being, by the Slave Act of 1816, limited to ten. One of the faults which the <persName key="driver,the" from="?" to="?" role="gangs" ref="http://www.recoveredhistories.org/pamphlet1.php?catid=304l">he</persName> most frequently punishes in this way, is that of coming too late to the field, either in the </p>
+             </body>
+        </text>
+    </TEI>
+</teiCorpus>
