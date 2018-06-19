@@ -1,0 +1,53 @@
+Exercise 1
+1.	Go to Voyant Tools- this is a open source, tool that analyzes text 
+2.	Chose the section of text I wanted to upload to focus on form the War Diaries 
+3.	When the text uploaded it looked very strange and most of the words were not even English 
+4.	Played around with the text but nothing seemed to work to make the words normal – when I checked the Zulip chat, I noticed that other classmates transcribed the document and shared them with the class 
+5.	I downloaded the zip file from my classmate and un zipped it on my computer 
+6.	The documents in this file were cleaned, and I knew when I re impute this file in to Voyant, it would look normal and be more manageable 
+7.	In Voyant I clicked on the document button on the Wordcloud and was able to choice specific words, which would form a graph on the right side of the page.
+I selected various word combinations looking at patterns and correlations in the text such as “arrived”, “p.m”, “Halifax”, “a.m”
+8.	The graph on the right hand side was very helpful in allowing me to see patterns within the text
+9.	Looking at the Wordcloud I noticed that Halifax was a big portion of the word cloud, meaning that it was used more often. I choose to focus in on this for my next exercise
+From this exercise we can see different patters thought the text based on the different words choices and different tools for analyzing we pick
+
+
+Exercise 2 
+1.	From the exercise that was just completed I choose to take the word “Halifax” and explore it further 
+2.	Using a map that I obtained from “Nova Scotia archives” I uploaded it to Map Warper 
+3.	Choice the map I chose a fire insurance map, similar to the module 4  
+4.	It was very tricky to impute metadata into this map because their was little to no information on the site where I got the map
+5.	Clicking “rectify” I then scrolled in on the right side and pin pointed the exact place on the map. 
+6.	While zooming in on the map, I dropped location points mirroring it on both sides of the map. I then noticed that I has got a map from Nova Scotia, but it was not of Halifax
+7.	I then had to go back to the site and with more attention read threw the lists making sure that I had selected a map from Halifax (my focus)
+8.	I continued with the previous steps, and when finished clicked on wrap image at the bottom of the page 
+I exported the file and copied the url http://mapwarper.net/maps/tile/31584/{z}/{x}/{y}.png
+9.	I will then take this url and post it into Palladio which will layer my map 
+
+
+Exercise 3
+Using Palladio
+1.	Using Palladio I loaded my csv file into the site, and typed in any random words to create two lines of texts in space provided, 
+at first I pasted my tile link into this bubble and it came up with a error
+2.	I clicked on the map tab which brought up options and I clicked on new layer on the side
+3.	In the tile tab on the side I used custom option which I pasted into Palladio, in the custom tile section 
+4.	I clicked on add layer, and choice the satellite option form the selection, this made the map an in color detailed view of the world. 
+It was challenging to find the part in question on the map
+I now have a georectifed map of Halifax, this basically associates something with location, and I am associating the map found with the location of Halifax!!
+
+Exercise 4
+
+I needed a place to display all my above work; I decided to use Omeka, which is a blogging platform which I can make posts to and organize my work effectively.
+
+1.	I opened reclaim host and clicked Cpanel (top of page), I already has installed reclaiming host and had a account
+2.	When you click into the Cpannel tab it will bring you to a list of your domains, 
+and click on subdomains which will allow you to name your subdomain you are creating.
+3.	Back in the Cpanel Omeka should have a little icon which you can click on and hit install 
+4.	Upon Installing this I forgot to click on the save at the side and could not understand why it wasn’t starting to install, 
+5.	After re doing this step several times I was able to actually install it 
+6.	My subdomain started to install, I was able to click onto the omeka tab and log into the account I just created. 
+Then I was able to give it a name and configure the theme to fit my liking 
+7.	When trying to enter in my data, I had some trouble navigating the site, I had a lot of failed attempts, 
+which I would just upload blank documents to actually see how the lay out and how everything uploaded to the page 
+
+i have now created a subdomain from my reclaiming host, omeka and am able to upload my texts and visual images created in the other exersises above 
